@@ -14,3 +14,6 @@
 [Download **newest** release](https://github.com/Bkebi-Group/Bkebi-GC-Release/releases/latest)
 
 **[Join our discord!](https://discord.gg/bkebi)**
+
+这是一个Bkebi，它是一个知名游戏的辅助，这里包含了Bekebi的官方链接和社区邀请链接，我希望请你遵守规则请不要出售这些倾注开发者们心血的作品
+请低调的使用Bkebi
