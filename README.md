@@ -14,3 +14,5 @@
 [Download **newest** release](https://github.com/Bkebi-Group/Bkebi-GC-Release/releases/latest)
 
 **[Join our discord!](https://discord.gg/bkebi)**
+
+请遵守不倒卖，不传播的原则，bkebi仅限与个人使用
