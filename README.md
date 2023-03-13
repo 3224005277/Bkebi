@@ -15,4 +15,4 @@
 
 **[Join our discord!](https://discord.gg/bkebi)**
 
-请遵守不倒卖，不传播的原则，bkebi仅限与个人使用
+请遵守不倒卖，不传播的原则，bkebi仅限与个人使用，也希望Bkebi将来能更好
