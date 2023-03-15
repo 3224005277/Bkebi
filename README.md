@@ -18,4 +18,4 @@
 请遵守不倒卖，不传播的原则，bkebi仅限与个人使用，也希望Bkebi将来能更好
 Please abide by the principle of no reselling and no dissemination. Bkebi is only for personal use. I also hope that Bkebi will be better in the future
 
-
+-README.md自述文件来自Bkebi-Group感谢
